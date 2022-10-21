@@ -10,9 +10,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=👩🏻‍💻%20Min%20Jeong%20Kim&desc=Web%20Frontend%20Developer&fontColor=141c63&color=gradient&customColorList=0,2,2,5,30&height=300&fontAlign=50&fontAlignY=40)
 
 </div>
-
 <!--기술스택-->
-
 <div align=center>
   
 <h3>🤸‍♀️ I can use</h3>
