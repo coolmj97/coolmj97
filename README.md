@@ -23,14 +23,23 @@
   
 </div>
 
-<!--연락 및 블로그-->
-
+<!--블로그-->
 <div align=center>
   
-<h3>📞 Contact</h3>
+<h3>📚 Blog</h3>
   
 [![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tune2654)](https://velog.io/@tune2654)
 [![Tistory Badge](http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://velog.io/@tune2654)](https://velog.io/@tune2654)
+  
+</div>
+
+<!--연락-->
+
+<div align=center>
+  
+<h3>✉️ Contact</h3>
+  
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:minnjeong.kim@gmail.com)](mailto:minnjeong.kim@gmail.com)
   
 </div>
