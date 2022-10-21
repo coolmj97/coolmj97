@@ -28,8 +28,8 @@
   
 <h3>📚 Blog</h3>
   
-[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tune2654)](https://velog.io/@tune2654)
-[![Tistory Badge](http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://infinitemj.tistory.com/)](https://infinitemj.tistory.com/)
+[![Velog Badge](http://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@tune2654)](https://velog.io/@tune2654){:target="_blank"}
+[![Tistory Badge](http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://infinitemj.tistory.com/)](https://infinitemj.tistory.com/){:target="_blank"}
   
 </div>
 
